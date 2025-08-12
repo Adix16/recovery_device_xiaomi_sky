@@ -34,7 +34,7 @@ export FOX_USE_XZ_UTILS=1
 export FOX_USE_ZSTD_BINARY=1
 export FOX_ASH_IS_BASH=1
 
-export FOX_USE_DMCTL=1
+export OF_USE_DMCTL=1
  
 export ALLOW_MISSING_DEPENDENCIES=true
 
